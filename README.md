@@ -17,7 +17,7 @@ Bookmark your favorites, enjoy smooth playback, and explore endless tunes with a
 
 ---
 ## 📂 Project Structure
-
+```text
 .
 ├── backend
 │   ├── controllers
@@ -107,7 +107,7 @@ Bookmark your favorites, enjoy smooth playback, and explore endless tunes with a
 
 28 directories, 58 files
 
-
+```
 
 - **backend**: Handles API requests, communicates with radio-browser APIs, and serves data to the frontend.
 - **frontend**: React-based client with features like infinite scroll, bookmarks, and audio controls.
